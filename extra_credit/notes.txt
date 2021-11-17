@@ -1,0 +1,34 @@
+make the rover start and go all the way to red
+
+write a few sentences that will make the robot drive in a square, with the square length the
+distance from start to the red block.
+
+
+ex 4
+go to point 2, then go to point 3, but must face east, and also must stop
+
+
+ex 5:
+make the fireworks example in cartesian, cannot use polar coordinates
+due wed
+o
+
+Ex: 7:
+The robot turns right 90 degrees.
+THe robot moves forward 50 cm
+the robot turns left 90 degrees
+the robot moves forward 60 inches
+
+For todays, we want to hit it, and move back, then go the the lower left corner and face east and stop
+
+
+Ex:9
+make it so that the click and generate outline thing allows us to click and drag the line and the initial points stay where they are
+
+
+ex 10:
+the rover moves forward.
+
+so far we always used the first map, now click upper left corner change scene two times to the lego
+robot.
+drive the rover on the path to the lower parking spot

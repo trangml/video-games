@@ -1,0 +1,8 @@
+make the rover start and go all the way to red
+
+write a few sentences that will make the robot drive in a square, with the square length the
+distance from start to the red block.
+
+
+ex 4
+go to point 2, then go to point 3, but must face east, and also must stop
